@@ -1,0 +1,19 @@
+---
+title: "Clase 26 enero"
+author: "Karimme"
+format: html
+editor: visual
+---
+
+## 
+
+## pkgs
+
+... {"r"}
+
+#! message: false library(tidyverse) #pkgs for data science library(fpp3) #pkgs for ts library(ploty) #plotly interactive plots library(patchwork) #for handling many plots in one figure library(tidyquant) \# took
+
+?aus_accomodation
+
+aus_accomodation 
+...
